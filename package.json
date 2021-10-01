@@ -12,6 +12,7 @@
   "author": "Dastan Rahimi",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^0.22.0",
     "yargs": "^17.2.1"
   }
 }

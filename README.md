@@ -13,6 +13,5 @@ npm install -g . to use ocr as bin
 ## Usage
 
 ```bash
-ocr image.jpg
+ocr https://jeroen.github.io/images/testocr.png
 ```
-
